@@ -1,3 +1,9 @@
+<h1 align="center">K-means</h1>
+## K-means 
+- คือการแบ่งกลุ่มในทางพื้นฐานสถิติ 
+
+<p> แบบ Clustering ที่ต้องมีตัวแปรอย่างน้อย 2 ตัวแปรขึ้นไป <p>
+
 <p align="center">
   <a href="https://example.com/">
     <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
