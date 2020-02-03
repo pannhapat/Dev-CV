@@ -1,0 +1,11 @@
+Clustering 
+Customer Segmentation
+
+#Required Package
+import numpy as np
+import panda as pd
+import matplotlib.pyplot as plt
+
+#Styling Plot
+
+#Read Data File
